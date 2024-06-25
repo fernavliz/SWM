@@ -1,0 +1,93 @@
+[gd_scene load_steps=3 format=3 uid="uid://b0s1w7h0wdl5q"]
+
+[ext_resource type="Script" path="res://Main.gd" id="1_6x3fm"]
+[ext_resource type="Script" path="res://SubWeapon.gd" id="2_mmfrb"]
+
+[node name="Main" type="Node" node_paths=PackedStringArray("wepselect")]
+script = ExtResource("1_6x3fm")
+wepselect = NodePath("SubWeapons/PointSensor")
+
+[node name="SubWeapons" type="Node" parent="."]
+
+[node name="AngleShooter" type="Node" parent="SubWeapons"]
+script = ExtResource("2_mmfrb")
+wepname = "Angle Shooter"
+inkcost = 40
+
+[node name="Autobomb" type="Node" parent="SubWeapons"]
+script = ExtResource("2_mmfrb")
+wepname = "Autobomb"
+inkcost = 55
+curvetype = 1
+
+[node name="Burst" type="Node" parent="SubWeapons"]
+script = ExtResource("2_mmfrb")
+wepname = "Burst Bomb"
+inkcost = 45
+curvetype = 4
+
+[node name="Curling" type="Node" parent="SubWeapons"]
+script = ExtResource("2_mmfrb")
+wepname = "Curling Bomb"
+inkcost = 65
+curvetype = 2
+
+[node name="Fizzy" type="Node" parent="SubWeapons"]
+script = ExtResource("2_mmfrb")
+wepname = "Fizzy Bomb"
+inkcost = 60
+curvetype = 1
+
+[node name="InkMine" type="Node" parent="SubWeapons"]
+script = ExtResource("2_mmfrb")
+wepname = "Ink Mine"
+inkcost = 60
+curvetype = 3
+
+[node name="PointSensor" type="Node" parent="SubWeapons"]
+script = ExtResource("2_mmfrb")
+wepname = "Point Sensor"
+inkcost = 45
+curvetype = 1
+
+[node name="SplashWall" type="Node" parent="SubWeapons"]
+script = ExtResource("2_mmfrb")
+wepname = "Splash Wall"
+inkcost = 60
+curvetype = 2
+
+[node name="SplatBomb" type="Node" parent="SubWeapons"]
+script = ExtResource("2_mmfrb")
+wepname = "Splat Bomb"
+inkcost = 70
+curvetype = 2
+
+[node name="Sprinkler" type="Node" parent="SubWeapons"]
+script = ExtResource("2_mmfrb")
+wepname = "Sprinkler"
+inkcost = 60
+curvetype = 3
+
+[node name="SquidBeakon" type="Node" parent="SubWeapons"]
+script = ExtResource("2_mmfrb")
+wepname = "Squid Beakon"
+inkcost = 75
+curvetype = 3
+
+[node name="SuctionBomb" type="Node" parent="SubWeapons"]
+script = ExtResource("2_mmfrb")
+wepname = "Suction Bomb"
+inkcost = 70
+curvetype = 2
+
+[node name="Torpedo" type="Node" parent="SubWeapons"]
+script = ExtResource("2_mmfrb")
+wepname = "Torpedo"
+inkcost = 65
+curvetype = 2
+
+[node name="ToxicMist" type="Node" parent="SubWeapons"]
+script = ExtResource("2_mmfrb")
+wepname = "Toxic Mist"
+inkcost = 60
+curvetype = 1
