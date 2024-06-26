@@ -13,3 +13,5 @@
 
 
 # ⚠We need one more tip !
+Please feel free to fill in the remaining tip.
+Before busting your brain on finding one, try looking for a tip already in either one of these two vids : [Video from 1nviz](https://discord.com/channels/1080039048887926804/1228651931891793983) / [Video from Fern](https://discord.com/channels/1080039048887926804/1126700238263038064)
