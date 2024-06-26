@@ -1,14 +1,14 @@
-- Send curlings above ledges
-  - Trucks !
-- Curling trickshots
-- Leave curlings on towers
+- [x] Send curlings above ledges (recorded by @Olkris)
+  - [x] Trucks !
+- [x] Curling trickshots (Recorded by Fernavliz)
+- [x] Leave curlings on towers (Recorded by Fernavliz)
 - ~~Bounce curlings on walls (??)~~
-- Cut off opponents path
-- Send ahead to scout for safety
-- Send it into crab's back
-- Chasing ? Turn and curl past them.
-- Bounce curlings around little ridges.
-- Break up your swimming to throw them off.
+- [x] Cut off opponents path (Recorded by Olkris)
+- [x] Send ahead to scout for safety (Recorded by Olkris)
+- [ ] Send it into crab's back
+- [ ] Chasing ? Turn and curl past them.
+- [x] Bounce curlings around little ridges. (Recorded by Olkris)
+- [x] Break up your swimming to throw them off. (Recorded by @Olkris2666)
 - N/A
 
 
