@@ -7,3 +7,6 @@
 - Curling sliding towards camera, turns into a green screen for the next clip.
 
 - Filler : Drawing numbers with curlings, lines can be drawn with wall bounces, and circles with explosions.
+
+
+testing 🥌
